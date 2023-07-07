@@ -1,0 +1,2 @@
+../Core/Src/aht20.c:11:6:AHT20INIT	24	static
+../Core/Src/aht20.c:23:6:AHT20READ	40	static
